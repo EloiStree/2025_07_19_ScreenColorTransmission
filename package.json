@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.screencolorout",                              
+  "displayName": "QTotalQuarantine",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool allows to convert data to 8 bits colors square on screen in aim to transmit to device with webcam without wifi or bluetooth as Quest3.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_07_19_ScreenColorTransmission.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
